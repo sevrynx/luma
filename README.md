@@ -51,7 +51,7 @@ If you'd like to review exactly what the extension stores, check the storage key
 Installation (Developer / Local testing)
 
 1. Clone the repository:
-   git clone https://github.com/klyra-dev/luma.git
+   git clone https://github.com/sevrynx/luma.git
 2. Open Chrome and navigate to:
    chrome://extensions/
 3. Enable "Developer mode" (top-right).
@@ -185,5 +185,5 @@ Built with a focus on privacy, simplicity, and accessibility. Contributions and 
 ---
 
 Contact / links
-- GitHub: https://github.com/klyra-dev/luma
-- Issues: https://github.com/klyra-dev/luma/issues
+- GitHub: https://github.com/sevrynx/luma
+- Issues: https://github.com/sevrynx/luma/issues
